@@ -1,0 +1,18 @@
+{
+    "name": "marcinpuszka/doctrine",
+    "authors": [
+        {
+            "name": "Marcin Puszka",
+            "email": "marcin.puszka@iamdripfeed.com"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    }
+}
